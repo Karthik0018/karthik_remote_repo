@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 umbrella
+=======
+Rain will arrive in next few minutes
+carry an umbrella
+>>>>>>> apple
